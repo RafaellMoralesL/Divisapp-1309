@@ -1,0 +1,7 @@
+{
+  "name": "conversor de divisas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
