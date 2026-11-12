@@ -2,8 +2,6 @@
 
 Aplicación móvil híbrida que convierte un monto en quetzales guatemaltecos (GTQ) a dólares estadounidenses (USD) con una tasa fija de 8 GTQ por dólar. Está construida con Ionic React y se empaqueta para Android con Capacitor.
 
-Actividad 3 — carné 25001309.
-
 ## Requisitos
 
 | Herramienta | Versión | Se necesita para |
